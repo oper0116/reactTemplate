@@ -1,5 +1,7 @@
-React Template 업데이트 내역
+React Template
 ================
+
+# VERSION 1.0.0
 
 ## 사용법
 
@@ -18,14 +20,14 @@ npm install
 npm start
 ```
 
-Open http://localhost:8080 in your browser.
-
-Static files are served from the `public` folder, project JavaScript files are bundled from the `app` folder.
+http://localhost:8080 접근 가능하며, app 폴더내의 Javascript 파일이 빌드되어 public 폴더의 index.html 에서 불러와 쓰입니다
 
 * 빌드 - Production
 ```
 npm run build
 ```
+
+빌드시 public 폴더의 bundle.js
 
 This will generate a minimized bundle.js file on the `public` folder.
 
