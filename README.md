@@ -27,9 +27,7 @@ http://localhost:8080 접근 가능하며, app 폴더내의 Javascript 파일이
 npm run build
 ```
 
-빌드시 public 폴더의 bundle.js
-
-This will generate a minimized bundle.js file on the `public` folder.
+빌드시 public 폴더의 bundle.js가 압축되어 생성됩니다.
 
 ### Dependencies
 
