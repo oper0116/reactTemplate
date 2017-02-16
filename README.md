@@ -8,11 +8,12 @@ git clone https://github.com/oper0116/reactTemplate.git
 ```
 
 ## 설치 **
+* Node Module 설치
 ```
 npm install
 ```
 
-** 개발모드 시작 **
+* 개발모드 시작
 ```
 npm start
 ```
@@ -21,7 +22,7 @@ Open http://localhost:8080 in your browser.
 
 Static files are served from the `public` folder, project JavaScript files are bundled from the `app` folder.
 
-** 빌드 - Production **
+* 빌드 - Production
 ```
 npm run build
 ```
